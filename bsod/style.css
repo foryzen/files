@@ -1,0 +1,35 @@
+body {
+    background: #47b8f4;
+    /*51cefe*/
+}
+
+h1,h3 {
+    color: white;
+    font-weight: 200;
+}
+
+.d1 {
+    position: absolute;
+    top: 5em;
+    left: 15em;
+}
+
+.h-3 {
+    margin: 2em 0 2em 0;
+}
+
+.h-4 {
+    margin: 0 0 2em 0;
+}
+
+.h-6 {
+    margin: 0;
+}
+
+.df {
+    display: flex;
+}
+
+.img-1 {
+    margin-right: 1em;
+}

@@ -1,0 +1,108 @@
+body {
+    margin: 40px 0 0 40px;
+    background: black;
+    zoom: 80%;
+}
+
+.ib {
+    display: inline-block;
+}
+
+.df {
+    display: flex;
+}
+
+.d1 {
+    width: 1080px;
+    height: 170px;
+    background: white;
+}
+
+.d2 {
+    width: 355px;
+    height: 85px;
+    background: white;
+}
+
+.d3 {
+    width: 6px;
+    height: 85px;
+    background: #717171;
+}
+
+.d4 {
+    width: 85px;
+    height: 85px;
+    background: white;
+}
+
+.d5 {
+    width: 258px;
+    height: 99px;
+    background: white;
+}
+
+.d6 {
+    width: 564px;
+    height: 99px;
+    background: #717171;
+}
+
+.d7 {
+    width: 167px;
+    height: 6px;
+    background: white;
+}
+
+.d8 {
+    width: 746px;
+    height: 6px;
+    background: #717171;
+}
+
+.d9 {
+    width: 258px;
+    height: 82px;
+    background: white;
+}
+
+.d10 {
+    width: 564px;
+    height: 82px;
+    background: #717171;
+}
+
+.d11 {
+    position: absolute;
+    top: 335px;
+    left: 335px;
+    border-radius: 50px;
+    width: 480px;
+    height: 480px;
+    background: #252525;
+}
+
+.h1-01 {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 88px;
+    margin: 36px 0 0 30px;
+    font-weight: 100;
+}
+
+.div-01 {
+    margin: 0 0 0 3em;
+}
+
+.input-01 {
+    padding: 0 5px 0 5px;
+    font-size: 25px;
+    width: 200px;
+    height: 50px;
+}
+
+.button-01 {
+    font-size: 25px;
+    width: 150px;
+    height: 53px;
+}
